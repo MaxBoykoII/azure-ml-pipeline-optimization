@@ -1,4 +1,5 @@
 azureml-core==1.21.0
+azureml-dataprep
 pandas
 scikit-learn
 joblib
