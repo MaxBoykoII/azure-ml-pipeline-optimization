@@ -1,3 +1,4 @@
 azureml-core==1.21.0
 azureml-widgets==1.21.0
 azureml-train-core==1.21.0
+pathlib==1.0.1
