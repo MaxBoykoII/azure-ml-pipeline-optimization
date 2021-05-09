@@ -1,6 +1,8 @@
 azureml-core==1.21.0
 azureml-widgets==1.21.0
 azureml-train-core==1.21.0
+azureml-train-automl==1.21.0
+azureml-automl-core==1.21.0
 pathlib==1.0.1
-azureml-dataprep
+azureml-dataprep==2.8.3
 joblib

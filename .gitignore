@@ -1,3 +1,6 @@
 .ipynb_checkpoints/
 .vscode/
 config.json
+__pycache__
+automl_errors.log
+azureml_automl.log
