@@ -5,3 +5,5 @@ __pycache__
 automl_errors.log
 azureml_automl.log
 automl.log
+.terraform
+terraform.tfstate
