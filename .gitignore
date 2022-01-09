@@ -7,3 +7,4 @@ azureml_automl.log
 automl.log
 .terraform
 terraform.tfstate
+terraform.tfstate.backup

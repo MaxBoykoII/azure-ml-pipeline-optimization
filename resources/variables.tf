@@ -1,7 +1,7 @@
 variable "name" {
   type        = string
   description = "Name of the deployment"
-  default = "azure-ml-pipeline"
+  default = "automl"
 }
 
 variable "environment" {
